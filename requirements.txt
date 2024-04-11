@@ -1,6 +1,5 @@
 fonttools==4.25.0
 munkres==1.1.4
 protobuf==3.20.3
-pywin32==305.1
 streamlit==1.33.0
 webencodings==0.5.1
