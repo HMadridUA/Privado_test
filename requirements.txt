@@ -1,4 +1,5 @@
 fonttools==4.25.0
+gunicorn==21.2.0
 munkres==1.1.4
 protobuf==3.20.3
 streamlit==1.33.0
